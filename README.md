@@ -36,7 +36,7 @@ The system uses three main tables:
 
 1. **📥 Clone the repository**
    ```bash
-   git clone https://github.com/DivyModi07/Movie-Ticket-Booking-System
+   git clone https://github.com/DivyModi07/Movie-Ticket-Booking-System.git
    cd "Movie-Ticket-Booking-System"
    ```
 
