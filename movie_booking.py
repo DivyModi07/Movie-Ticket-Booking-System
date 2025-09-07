@@ -1097,4 +1097,5 @@ try:
 except Exception as e:
     print(f"Error during application execution: {e}")
 finally:
+
     main_class.user_management.close_connection() 
